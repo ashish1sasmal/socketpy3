@@ -1,7 +1,6 @@
 import socket
 import sys
 
-
 #create a socket (connect to computers)
 def create_socket():
 	try:
